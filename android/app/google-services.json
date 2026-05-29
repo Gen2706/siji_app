@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404436651795",
+    "project_id": "siji-app-18a4f",
+    "storage_bucket": "siji-app-18a4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404436651795:android:3248c2895b9e0d2afad4e6",
+        "android_client_info": {
+          "package_name": "com.example.siji_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsJ8RlxkVr7IBur26v-KuLpTrs1ncJkko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
